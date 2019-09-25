@@ -24,7 +24,7 @@ yarn-error.log*
 
 .idea/encodings.xml
 .idea/workspace.xml
-.idea/gapVisualizationUI.iml
+.idea/custom-theme.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
