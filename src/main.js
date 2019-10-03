@@ -31,4 +31,6 @@ const Root = () => (
   </Provider>
 );
 
+export default Root;
+
 //render(<Root />, document.body.appendChild(document.createElement('div')));
